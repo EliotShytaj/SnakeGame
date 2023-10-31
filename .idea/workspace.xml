@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6858df66-023b-4116-bf08-6bbc2461031e" name="Changes" comment="Default Constructors Added.">
-      <change beforePath="$PROJECT_DIR$/src/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SnakeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SnakeGame.java" afterDir="false" />
+    <list default="true" id="6858df66-023b-4116-bf08-6bbc2461031e" name="Changes" comment="Game Frame 1">
+      <change beforePath="$PROJECT_DIR$/src/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1698724366014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Game Frame 1">
+      <option name="closed" value="true" />
+      <created>1698724590075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698724590075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Default Constructors Added." />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Constructors Added." />
+    <MESSAGE value="Game Frame 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Game Frame 1" />
   </component>
 </project>
