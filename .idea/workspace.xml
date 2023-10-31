@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6858df66-023b-4116-bf08-6bbc2461031e" name="Changes" comment="Declared necessary variables, finished GamePanel constructor and declared a new method to populate the map with apples.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6858df66-023b-4116-bf08-6bbc2461031e" name="Changes" comment="Completed startGame, paintComponent and draw methods.">
       <change beforePath="$PROJECT_DIR$/src/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698725582564</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Completed startGame, paintComponent and draw methods.">
+      <option name="closed" value="true" />
+      <created>1698726184084</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698726184084</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +125,7 @@
     <MESSAGE value="Declared the nessecary methods and classes on GamePanel" />
     <MESSAGE value="Declared the necessary constants, methods, and classes on GamePanel." />
     <MESSAGE value="Declared necessary variables, finished GamePanel constructor and declared a new method to populate the map with apples." />
-    <option name="LAST_COMMIT_MESSAGE" value="Declared necessary variables, finished GamePanel constructor and declared a new method to populate the map with apples." />
+    <MESSAGE value="Completed startGame, paintComponent and draw methods." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed startGame, paintComponent and draw methods." />
   </component>
 </project>
