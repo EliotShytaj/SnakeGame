@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6858df66-023b-4116-bf08-6bbc2461031e" name="Changes" comment="Added more to draw, finished newApple, added to the movement.">
+    <list default="true" id="6858df66-023b-4116-bf08-6bbc2461031e" name="Changes" comment="Finished check collision method.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
     </list>
@@ -53,6 +53,20 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="SnakeGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SnakeGame" />
+      <module name="SnakeGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SnakeGame" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -134,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698726802627</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Finished check collision method.">
+      <option name="closed" value="true" />
+      <created>1698727557823</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698727557823</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -146,6 +168,7 @@
     <MESSAGE value="Completed startGame, paintComponent and draw methods." />
     <MESSAGE value="Added more to draw and finished newApple" />
     <MESSAGE value="Added more to draw, finished newApple, added to the movement." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added more to draw, finished newApple, added to the movement." />
+    <MESSAGE value="Finished check collision method." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished check collision method." />
   </component>
 </project>
