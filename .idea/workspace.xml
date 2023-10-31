@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6858df66-023b-4116-bf08-6bbc2461031e" name="Changes" comment="Declared the necessary constants, methods, and classes on GamePanel.">
+    <list default="true" id="6858df66-023b-4116-bf08-6bbc2461031e" name="Changes" comment="Declared necessary variables, finished GamePanel constructor and declared a new method to populate the map with apples.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GamePanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698725169319</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Declared necessary variables, finished GamePanel constructor and declared a new method to populate the map with apples.">
+      <option name="closed" value="true" />
+      <created>1698725582564</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1698725582564</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,6 +117,7 @@
     <MESSAGE value="Game Frame 1" />
     <MESSAGE value="Declared the nessecary methods and classes on GamePanel" />
     <MESSAGE value="Declared the necessary constants, methods, and classes on GamePanel." />
-    <option name="LAST_COMMIT_MESSAGE" value="Declared the necessary constants, methods, and classes on GamePanel." />
+    <MESSAGE value="Declared necessary variables, finished GamePanel constructor and declared a new method to populate the map with apples." />
+    <option name="LAST_COMMIT_MESSAGE" value="Declared necessary variables, finished GamePanel constructor and declared a new method to populate the map with apples." />
   </component>
 </project>
